@@ -67,8 +67,8 @@ A **platform for cybersecurity education** designed to provide:
 ## 📫 **Let's Connect**  
 
 - **GitHub:** [moaaz17877640](https://github.com/moaaz17877640)  
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **Email:** [your.email@example.com](mailto:your.email@example.com)  
+- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/moaaz-elmahi/)](#)  
+- **Email:** [your.email@example.com](mstfyrb477@gmail.com)  
 
 ---
 
