@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there! 👋 I'm Muaaz Saeed Elmahi  
 
-<!--
-**moaaz17877640/moaaz17877640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer | Cloud Enthusiast | Cybersecurity Learner**  
 
-Here are some ideas to get you started:
+I am passionate about automation, cloud technologies, and cybersecurity. Currently, I am working as a **DevOps Engineer** and actively learning new technologies to enhance my skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools  
+- 🖥️ **DevOps & Cloud:** Docker, Kubernetes, Terraform, Ansible, Azure, Huawei Cloud  
+- 🛠️ **CI/CD & Automation:** Jenkins, GitHub Actions, Bash, Python  
+- 🔐 **Cybersecurity & Networking:** Firewalls, Intrusion Detection, Network Scanning  
+- 💡 **Other Interests:** Embedded Systems, Virtualization, IoT  
+
+## 📚 Current Projects  
+- 🎓 **Smart Home Automation System** (Graduation Project)  
+- 🔍 **Network Scanner with GUI**  
+- 🔒 **File Locker using PyQt5**  
+- 🏆 **CTF Platform for Cybersecurity Challenges**  
+
+## 📫 How to Reach Me  
+- **GitHub:** [moaaz17877640](https://github.com/moaaz17877640)  
+- **LinkedIn:** [Your LinkedIn Profile](#)  
+- **Email:** [your.email@example.com](mailto:your.email@example.com)  
+
+### 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=moaaz17877640&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moaaz17877640&layout=compact&theme=radical)  
+
+---
+
+### **3. Upload & Commit the README**  
+Once you edit the `README.md`, push it to GitHub:  
+
+```sh
+git add README.md
+git commit -m "Added GitHub Profile README"
+git push origin master
