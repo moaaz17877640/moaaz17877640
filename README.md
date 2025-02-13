@@ -2,19 +2,16 @@
 
 🚀 **DevOps Engineer | Cloud Enthusiast | Cybersecurity Learner**  
 
-I am passionate about automation, cloud technologies, and cybersecurity. Currently, I am working as a **DevOps Engineer** and actively learning new technologies to enhance my skills.  
+I am passionate about automation and cloud technologies. Currently, I am working as a **DevOps Engineer** and actively learning new technologies to enhance my skills.  
 
 ## 🔧 Technologies & Tools  
-- 🖥️ **DevOps & Cloud:** Docker, Kubernetes, Terraform, Ansible, Azure, Huawei Cloud  
+- 🖥️ **DevOps & Cloud:** Docker, Kubernetes, Terraform, Ansible, Azure, Huawei Cloud ,AWS 
 - 🛠️ **CI/CD & Automation:** Jenkins, GitHub Actions, Bash, Python  
-- 🔐 **Cybersecurity & Networking:** Firewalls, Intrusion Detection, Network Scanning  
 - 💡 **Other Interests:** Embedded Systems, Virtualization, IoT  
 
 ## 📚 Current Projects  
-- 🎓 **Smart Home Automation System** (Graduation Project)  
-- 🔍 **Network Scanner with GUI**  
-- 🔒 **File Locker using PyQt5**  
-- 🏆 **CTF Platform for Cybersecurity Challenges**  
+- 🎓 **Smart Home Automation System** (Graduation Project)   
+- 🏆 **deploying CTF Platform for Cybersecurity Challenges**  
 
 ## 📫 How to Reach Me  
 - **GitHub:** [moaaz17877640](https://github.com/moaaz17877640)  
