@@ -7,12 +7,12 @@
 
 ## 🛠 **About Me**  
 
-I am a **DevOps Engineer and student** with a strong focus on **cloud computing, automation, and infrastructure as code (IaC)**. My goal is to build scalable, automated, and efficient cloud-based solutions while continuously improving DevOps workflows.  
+I am a **DevOps Engineer and student** with a strong focus on **cloud computing, automation, and infrastructure as code (IaC)**. My goal is to build scalable, automated, and efficient cloud-based solutions.  
 
 🔹 **What I Do:**  
 ✅ Build and manage **CI/CD pipelines** using Jenkins & GitHub Actions  
 ✅ Automate infrastructure using **Terraform, Ansible, and Helm**  
-✅ Deploy and scale applications using **Docker and Kubernetes**  
+✅ Deploy and scale applications using **Docker, Kubernetes, and OpenShift**  
 ✅ Work with **AWS & Azure** for cloud-based solutions  
 ✅ Monitor system performance using **Prometheus and Grafana**  
 
@@ -29,6 +29,8 @@ I am a **DevOps Engineer and student** with a strong focus on **cloud computing,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" title="Helm" alt="Helm" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" title="OpenShift" alt="OpenShift" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" alt="Bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
@@ -49,7 +51,7 @@ A **platform for cybersecurity education** designed to provide:
 ### 🔧 **DevOps & Automation Projects**  
 ✅ **Automated CI/CD Pipeline**: Jenkins + GitHub Actions for **seamless software delivery**  
 ✅ **Infrastructure as Code (IaC)**: Terraform & Ansible to **provision cloud infrastructure**  
-✅ **Kubernetes Deployment**: Scalable microservices running on **AWS & Azure**  
+✅ **Kubernetes & OpenShift Deployment**: Scalable microservices running on **AWS & Azure**  
 ✅ **Cloud Monitoring & Logging**: Implemented **Prometheus, Grafana, and ELK Stack**  
 ✅ **Smart Home Automation System**: IoT-based project using **Raspberry Pi & Embedded C**  
 
@@ -58,6 +60,7 @@ A **platform for cybersecurity education** designed to provide:
 ## 📚 **Currently Learning & Improving**  
 
 ✔️ Kubernetes Helm Charts for automated deployments  
+✔️ **OpenShift** for enterprise-grade Kubernetes orchestration  
 ✔️ AWS Lambda & Serverless frameworks  
 ✔️ Cloud security best practices  
 ✔️ Advanced observability with Prometheus & Grafana  
@@ -81,4 +84,3 @@ A **platform for cybersecurity education** designed to provide:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaaz17877640&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
 </p>
-
