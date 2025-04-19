@@ -37,7 +37,7 @@ I am a **DevOps Engineer and student** with a strong focus on **cloud computing,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>
 </p>
----
+
 
 ## 🚀 **Key Projects**  
 
