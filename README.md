@@ -7,7 +7,7 @@
 
 ## 🛠 **About Me**  
 
-I am a **DevOps Engineer and student** with a strong focus on **cloud computing, automation, and infrastructure as code (IaC)**. My goal is to build scalable, automated, and efficient cloud-based solutions.  
+I am a **DevOps Engineer and student** with a strong focus on **cloud computing, automation, and infrastructure as code (IaC)**. My goal is to build scalable, automated, and efficient cloud-based solutions.
 
 🔹 **What I Do:**  
 ✅ Build and manage **CI/CD pipelines** using Jenkins & GitHub Actions  
@@ -36,8 +36,12 @@ I am a **DevOps Engineer and student** with a strong focus on **cloud computing,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>
+  <img src="https://via.placeholder.com/40?text=Microservice" title="Microservices" alt="Microservices" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" title="Nginx" alt="Nginx" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" title="Apache" alt="Apache" width="40" height="40"/>
 </p>
 
+---
 
 ## 🚀 **Key Projects**  
 
