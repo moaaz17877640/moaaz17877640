@@ -1,35 +1,26 @@
-```markdown
-# 👋 Hi, I'm Muaaz Saeed Elmahi
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving" width="120" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00AEEF&center=true&width=650&lines=DevOps+Engineer;Cloud+Enthusiast;Automation+%26+IaC+Specialist" alt="typing" />
-</p>
+# 👋 Hi, I'm Muaaz Saeed Elmahi  
 
 🚀 **DevOps Engineer | Cloud Enthusiast | Automation & Infrastructure as Code (IaC) Specialist**  
-🎓 **Passionate about DevOps, Cloud Computing, CI/CD Pipelines, and Infrastructure Automation**
+🎓 **Passionate about DevOps, Cloud Computing, CI/CD Pipelines, and Infrastructure Automation**  
 
 ---
 
-## 🛠 **About Me**
+## 🛠 **About Me**  
 
-I am a **DevOps Engineer and student** with a strong focus on **cloud computing, automation, and infrastructure as code (IaC)**. My goal is to build scalable, automated, and efficient cloud-based solutions that are production-ready.
+I am a **DevOps Engineer and student** with a strong focus on **cloud computing, automation, and infrastructure as code (IaC)**. My goal is to build scalable, automated, and efficient cloud-based solutions.
 
 🔹 **What I Do:**  
 ✅ Build and manage **CI/CD pipelines** using Jenkins & GitHub Actions  
 ✅ Automate infrastructure using **Terraform, Ansible, and Helm**  
 ✅ Deploy and scale applications using **Docker, Kubernetes, and OpenShift**  
 ✅ Work with **AWS & Azure** for cloud-based solutions  
-✅ Monitor system performance using **Prometheus and Grafana**
+✅ Monitor system performance using **Prometheus and Grafana**  
 
-💡 I also have experience in **embedded systems development**, particularly in **IoT and automation projects**.
+💡 I also have experience in **embedded systems development**, particularly in **IoT and automation projects**.  
 
 ---
 
-## 🔧 **Main Toolkit & Technologies**
+## 🔧 **Main Toolkit & Technologies**  
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="Amazon Web Services - AWS" alt="Amazon Web Services - AWS" width="40" height="40"/>
@@ -51,42 +42,42 @@ I am a **DevOps Engineer and student** with a strong focus on **cloud computing,
 
 ---
 
-## 🚀 **Key Projects**
+## 🚀 **Key Projects**  
 
-### 🎓 **Graduation Project: Cybersecurity Learning Academy**
+### 🎓 **Graduation Project: Cybersecurity Learning Academy**  
 A **platform for cybersecurity education** designed to provide:  
 ✔️ **Academy** – Courses and training in cybersecurity  
 ✔️ **Labs** – Hands-on exercises for security testing  
-✔️ **CTF Platform** – Competitions for cybersecurity enthusiasts
+✔️ **CTF Platform** – Competitions for cybersecurity enthusiasts  
 
-### 🔧 **DevOps & Automation Projects**
+### 🔧 **DevOps & Automation Projects**  
 ✅ **Automated CI/CD Pipeline**: Jenkins + GitHub Actions for **seamless software delivery**  
 ✅ **Infrastructure as Code (IaC)**: Terraform & Ansible to **provision cloud infrastructure**  
 ✅ **Kubernetes & OpenShift Deployment**: Scalable microservices running on **AWS & Azure**  
 ✅ **Cloud Monitoring & Logging**: Implemented **Prometheus, Grafana, and ELK Stack**  
-✅ **Smart Home Automation System**: IoT-based project using **Raspberry Pi & Embedded C**
+✅ **Smart Home Automation System**: IoT-based project using **Raspberry Pi & Embedded C**  
 
 ---
 
-## 📚 **Currently Learning & Improving**
+## 📚 **Currently Learning & Improving**  
 
 ✔️ Kubernetes Helm Charts for automated deployments  
 ✔️ **OpenShift** for enterprise-grade Kubernetes orchestration  
 ✔️ AWS Lambda & Serverless frameworks  
 ✔️ Cloud security best practices  
-✔️ Advanced observability with Prometheus & Grafana
+✔️ Advanced observability with Prometheus & Grafana  
 
 ---
 
-## 📫 **Let's Connect**
+## 📫 **Let's Connect**  
 
 - **GitHub:** [moaaz17877640](https://github.com/moaaz17877640)  
-- **LinkedIn:** [Moaaz Elmahi](https://www.linkedin.com/in/moaaz-elmahi/)  
-- **Email:** [mstfyrb477@gmail.com](mailto:mstfyrb477@gmail.com)
+- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/moaaz-elmahi/)](#)  
+- **Email:** [your.email@example.com](mstfyrb477@gmail.com)  
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Stats**  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moaaz17877640&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
@@ -95,4 +86,3 @@ A **platform for cybersecurity education** designed to provide:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaaz17877640&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
 </p>
-```
