@@ -116,12 +116,12 @@
     <text x="500" y="118" class="title">Moaaz Saeed Elmahi</text>
 
     <!-- Subtitle -->
-    <text x="500" y="152" class="subtitle">Cloud &amp; DevOps Engineer &nbsp;•&nbsp; AWS Solutions Architect</text>
+    <text x="500" y="152" class="subtitle">Cloud &amp; DevOps Engineer &#160;•&#160; AWS Solutions Architect</text>
 
     <!-- Tech Badges Bar -->
     <g transform="translate(500, 192)">
       <text x="0" y="0" class="badge-text">
-        TERRAFORM &nbsp;•&nbsp; DOCKER &nbsp;•&nbsp; KUBERNETES &nbsp;•&nbsp; CI/CD &nbsp;•&nbsp; ANSIBLE &nbsp;•&nbsp; AZZRK &nbsp;•&nbsp; NTI
+        TERRAFORM &#160;•&#160; DOCKER &#160;•&#160; KUBERNETES &#160;•&#160; CI/CD &#160;•&#160; ANSIBLE &#160;•&#160; AZZRK &#160;•&#160; NTI
       </text>
     </g>
   </g>

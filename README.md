@@ -2,7 +2,7 @@
 
 <!-- Animated Header Wave -->
 <a href="https://portfolio-v3-black-alpha.vercel.app/">
-  <img src="https://raw.githubusercontent.com/moaaz17877640/moaaz17877640/main/assets/header.svg" width="100%" alt="Moaaz Saeed Elmahi - Cloud &amp; DevOps Engineer" />
+  <img src="./assets/header.svg" width="100%" alt="Moaaz Saeed Elmahi - Cloud &amp; DevOps Engineer" />
 </a>
 
 <!-- Dynamic Animated Typing SVG -->
@@ -15,7 +15,7 @@
 <!-- Action Navigation Pills -->
 <p align="center">
   <a href="https://portfolio-v3-black-alpha.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-portfolio--v3--black--alpha.vercel.app-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/Live_Portfolio-portfolio--v3--black--alpha.vercel.app-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/moaaz-elmahi/">
     <img src="https://img.shields.io/badge/LinkedIn-Moaaz_Elmahi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -360,7 +360,7 @@ Feel free to connect for cloud infrastructure collaborations, DevOps consultatio
 <div align="center">
 
 <a href="https://portfolio-v3-black-alpha.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Visit_Live_Portfolio-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Visit_Live_Portfolio-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/moaaz-elmahi/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -381,6 +381,6 @@ Feel free to connect for cloud infrastructure collaborations, DevOps consultatio
 <br/>
 
 <!-- Animated Wave Footer -->
-<img src="https://raw.githubusercontent.com/moaaz17877640/moaaz17877640/main/assets/footer.svg" width="100%" alt="Footer Wave" />
+<img src="./assets/footer.svg" width="100%" alt="Footer Wave" />
 
 </div>
