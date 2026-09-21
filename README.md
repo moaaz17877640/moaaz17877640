@@ -1,192 +1,340 @@
 <div align="center">
 
-# ☁️ Moaaz Saeed Elmahi
-### **Cloud & DevOps Engineer | AWS Certified Solutions Architect**
+<!-- Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00f2fe,50:4f46e5,100:7928ca&height=220&section=header&text=Moaaz%20Saeed%20Elmahi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20Solutions%20Architect&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Moaaz Saeed Elmahi - Header" />
 
+<!-- Dynamic Animated Typing SVG -->
+<a href="https://portfolio-v3-black-alpha.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00F2FE&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+Engineer;AWS+Certified+Solutions+Architect+-+Associate;Terraform+%26+Ansible+Infrastructure+Automation;Zero-Downtime+CI%2FCD+Pipelines+(GitHub+Actions+%2B+Jenkins);DevOps+Engineer+%40+Azzrk;Cloud+Instructor+%40+NTI+(100%2B+Mentees);Visit+My+Live+Portfolio+%C2%BB" alt="Typing Animation" />
+</a>
+
+<br/>
+
+<!-- Action Navigation Pills -->
 <p align="center">
-  <a href="https://portfolio-v3-black-alpha.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-portfolio--v3--black--alpha.vercel.app-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/moaaz-elmahi/"><img src="https://img.shields.io/badge/LinkedIn-Moaaz_Elmahi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:moazelmahi39@gmail.com"><img src="https://img.shields.io/badge/Email-moazelmahi39%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/moaaz17877640"><img src="https://img.shields.io/badge/GitHub-moaaz17877640-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://portfolio-v3-black-alpha.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-portfolio--v3--black--alpha.vercel.app-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/moaaz-elmahi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Moaaz_Elmahi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:moazelmahi39@gmail.com">
+    <img src="https://img.shields.io/badge/Email-moazelmahi39%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/moaaz17877640">
+    <img src="https://img.shields.io/badge/GitHub-moaaz17877640-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
+<!-- Interactive Quick Metrics -->
 <p align="center">
-  📍 <strong>Cairo, Egypt</strong> &nbsp;|&nbsp; 
-  💼 DevOps Engineer @ <a href="#-work-experience"><strong>Azzrk</strong></a> &nbsp;|&nbsp; 
-  👨‍🏫 Cloud Instructor @ <a href="#-work-experience"><strong>NTI</strong></a> &nbsp;|&nbsp;
-  🎓 B.Sc. in IT, <strong>Tanta University</strong> (GPA: 3.6 / B+)
+  <img src="https://img.shields.io/badge/Experience-2%2B_Years-00F2FE?style=flat-square&logo=clock&logoColor=black" alt="Experience" />
+  <img src="https://img.shields.io/badge/Production_Systems-8%2B_Apps-4F46E5?style=flat-square&logo=serverless&logoColor=white" alt="Apps" />
+  <img src="https://img.shields.io/badge/Cloud_Certifications-3x_Verified-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Certifications" />
+  <img src="https://img.shields.io/badge/Engineers_Taught-100%2B_Mentees-EC4899?style=flat-square&logo=google-classroom&logoColor=white" alt="Mentees" />
+  <img src="https://img.shields.io/badge/Location-Cairo%2C_Egypt-10B981?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
-
----
 
 </div>
 
-## 📌 Executive Summary
+---
 
-Cloud & DevOps Engineer with proven production experience architecting **high-availability AWS environments**, engineering declarative **Infrastructure as Code (Terraform & Ansible)**, and building zero-downtime **CI/CD pipelines (GitHub Actions, Jenkins)**. Experienced in bridging cross-platform CI/CD systems, containerizing distributed applications, securing cloud infrastructure via strict RBAC and automated gates, and mentoring technical teams on cloud adoption.
+### 🖥️ `$ whoami --verbose`
 
-- 🚀 **Currently:** DevOps Engineer at **Azzrk** & Cloud Instructor (part-time) at **NTI (National Telecommunication Institute)**.
-- 💡 **Core Mission:** Designing bulletproof, repeatable cloud infrastructure and automated developer workflows that eliminate downtime and accelerate releases.
-- 🔗 **Explore my interactive 3D/animated portfolio:** **[portfolio-v3-black-alpha.vercel.app](https://portfolio-v3-black-alpha.vercel.app/)**
+```yaml
+engineer:
+  name: "Moaaz Saeed Elmahi"
+  title: "Cloud & DevOps Engineer"
+  location: "Cairo, Egypt 🇪🇬"
+  degrees: "B.Sc. in Information Technology, Tanta University (GPA: 3.6 / B+)"
+  graduation_project: "SPIDERS for Security (Grade: A+)"
+current_focus:
+  primary_role: "DevOps Engineer @ Azzrk (Nov. 2025 - Present)"
+  teaching_role: "Cloud Instructor (Part-time) @ NTI (National Telecommunication Institute)"
+  mission: "Transforming complex infrastructure into predictable, declarative, automated code."
+  live_portfolio: "https://portfolio-v3-black-alpha.vercel.app/"
+stack_highlights:
+  cloud: ["AWS", "Azure", "Hetzner", "OCI"]
+  iac: ["Terraform", "Ansible", "Helm"]
+  containers: ["Docker", "Kubernetes", "OpenShift"]
+  ci_cd: ["GitHub Actions (Custom Action Author)", "Jenkins", "GitLab CI"]
+```
 
 ---
 
-## 🏆 Verified Certifications
+## 🏆 Verified Cloud Credentials
 
 <div align="center">
 
-| Certification | Issuing Organization | Credential Verification |
-|:---|:---:|:---:|
-| **AWS Certified Solutions Architect – Associate** | Amazon Web Services | [![Verify on Credly](https://img.shields.io/badge/Credly-Verified_Badge-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/3bb149d1-8c80-4f83-b69e-2b0d36dd2e32) |
-| **AWS Certified Cloud Practitioner** | Amazon Web Services | [![Verify on Credly](https://img.shields.io/badge/Credly-Verified_Badge-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/eb3908da-2a6b-4710-9fe9-954a1b5c9936/linked_in_profile) |
-| **Oracle Cloud Infrastructure (OCI) 2024 Foundations Associate** | Oracle Cloud | [![Verify Oracle Credential](https://img.shields.io/badge/Oracle-Verified_Badge-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5BD86914A6262A377CBE961E491D630F4763C097864553EE3A15C5AA0FE3C590) |
+<table>
+  <thead>
+    <tr align="center">
+      <th>Badge</th>
+      <th>Certification</th>
+      <th>Issuing Authority</th>
+      <th>Verification Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AWS-SAA--C03-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA" />
+      </td>
+      <td><strong>AWS Certified Solutions Architect – Associate</strong></td>
+      <td>Amazon Web Services</td>
+      <td>
+        <a href="https://www.credly.com/badges/3bb149d1-8c80-4f83-b69e-2b0d36dd2e32">
+          <img src="https://img.shields.io/badge/Verify_on_Credly-00F2FE?style=flat-square&logo=credly&logoColor=black" alt="Verify SAA" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CCP" />
+      </td>
+      <td><strong>AWS Certified Cloud Practitioner</strong></td>
+      <td>Amazon Web Services</td>
+      <td>
+        <a href="https://www.credly.com/badges/eb3908da-2a6b-4710-9fe9-954a1b5c9936/linked_in_profile">
+          <img src="https://img.shields.io/badge/Verify_on_Credly-00F2FE?style=flat-square&logo=credly&logoColor=black" alt="Verify CCP" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Oracle-OCI_2024-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI" />
+      </td>
+      <td><strong>Oracle Cloud Infrastructure (OCI) 2024 Certified Foundations Associate</strong></td>
+      <td>Oracle Cloud</td>
+      <td>
+        <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5BD86914A6262A377CBE961E491D630F4763C097864553EE3A15C5AA0FE3C590">
+          <img src="https://img.shields.io/badge/Verify_on_Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Verify OCI" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
 ---
 
-## 💼 Work Experience
+## 💼 Professional Experience
 
-### 🔹 **DevOps Engineer** — **[Azzrk](https://github.com/moaaz17877640)**
+### 🚀 **DevOps Engineer** — [Azzrk](https://github.com/moaaz17877640)
 *Mansoura, Dakahlia, Egypt &nbsp;|&nbsp; Nov. 2025 – Present*
-- **Automated CI/CD Workflows:** Built and maintained end-to-end build, test, and release pipelines using **GitHub Actions**, dramatically boosting delivery reliability and slashing manual engineering overhead.
-- **Server Provisioning & Configuration:** Leveraged **Ansible, Bash, and Python** to orchestrate idempotent server provisioning, configuration management, and zero-downtime application deployments.
-- **Cloud Infrastructure & Reliability:** Maintained robust multi-tier cloud environments on **AWS**, guaranteeing high availability, fault tolerance, and repeatable staging-to-production parity.
-- **FinOps & Cloud Security:** Partnered across teams to optimize cloud resource utilization, enforce least-privilege RBAC, and embed automated security gates.
+
+- **End-to-End CI/CD Automation:** Engineered and maintained automated build, test, and zero-downtime deployment pipelines using **GitHub Actions**, cutting deployment cycles and human error.
+- **Idempotent Server Provisioning:** Automated staging and production multi-server fleets using **Ansible, Bash, and Python**, standardizing baseline configurations and hardening server environments.
+- **High-Availability Cloud Architecture:** Managed scalable, fault-tolerant infrastructure on **AWS**, guaranteeing staging/production parity and 99.9% uptime.
+- **FinOps & Security Governance:** Collaborated with cross-functional product teams to optimize cloud infrastructure spend, enforce least-privilege RBAC, and integrate automated security scans.
 
 ---
 
-### 🔹 **Cloud Instructor (Part-time)** — **National Telecommunication Institute (NTI)**
+### 👨‍🏫 **Cloud Instructor (Part-time)** — [National Telecommunication Institute (NTI)](https://www.nti.sci.eg/)
 *Egypt &nbsp;|&nbsp; Apr. 2025 – Dec. 2025*
-- **Comprehensive Cloud Curriculum:** Delivered in-depth training on cloud computing architectures, service models (**IaaS, PaaS, SaaS**), virtualization, and enterprise adoption frameworks.
-- **Hands-on Labs:** Instructed practical workshops covering compute (EC2), scalable storage (S3/EBS), VPC networking, security groups, IAM policies, and managed databases.
-- **Certification Mentorship:** Mentored and coached over 100+ students and IT professionals preparing for industry cloud certifications (AWS SAA & CCP) and real-world production deployments.
+
+- **Cloud Foundations & Architecture:** Delivered hands-on courses covering cloud computing architectures, cloud migration, and **IaaS, PaaS, SaaS** delivery models.
+- **Practical Infrastructure Labs:** Led practical sessions covering compute (**EC2**), scalable storage (**S3, EBS**), VPC networking, security groups, subnets, and relational databases.
+- **Certification Coaching:** Mentored over **100+ students and engineers** preparing for industry cloud certifications (AWS SAA & CCP) and production cloud engineering.
 
 ---
 
-## 🚀 Key Projects & Production Systems
+## 🚀 Featured Production Projects & Systems
 
-### 1. **Jenkaz** *(Azzrk)* &nbsp; `GitHub Actions` `Jenkins` `CI/CD` `Bash`
-- Engineered a custom **GitHub Action** bridging modern GitHub CI workflows with local private Jenkins CD clusters.
-- Implemented real-time polling of Jenkins job statuses, turning downstream build and deployment results into strict gating mechanisms.
-- Fail-safe workflow stops deployments immediately upon upstream test/lint failures, closing cross-platform pipeline feedback loops.
+<details open>
+<summary><h3>1. 🔄 <strong>Jenkaz</strong> — Custom GitHub CI & Jenkins CD Bridge</h3></summary>
 
-### 2. **Hurlaz** *(Azzrk)* &nbsp; `TypeScript` `GitHub Actions` `Hurl` `API Testing`
-- Authored a custom **TypeScript GitHub Action** embedding declarative Hurl-based HTTP/API testing into continuous delivery pipelines.
-- Automated API workflow validation, HTTP response status checks, and security header verifications before production cutovers.
+> **Tech Stack:** `GitHub Actions` &bull; `Jenkins` &bull; `CI/CD` &bull; `Bash` &bull; `REST APIs`
 
-### 3. **Codeaz** *(Azzrk)* &nbsp; `GitHub Actions` `RBAC` `Security` `Policy-as-Code`
-- Designed an automated **Role-Based Access Control (RBAC)** GitHub Action to protect sensitive branches and production code paths.
-- Enforced code-owner review requirements, verified contributor authorization dynamically, and blocked unapproved infrastructure alterations.
+- Developed a custom **GitHub Action** bridging modern GitHub CI workflows with local private Jenkins CD execution pipelines.
+- Engineered automated status verification polling Jenkins job results to act as automated deployment gates.
+- Strict pipeline validation guarantees workflows automatically halt on failed deployment stages, preventing broken builds from reaching servers.
+- Significantly accelerated cross-platform release validation with immediate feedback loops.
 
-### 4. **Cloudaz** *(Azzrk)* &nbsp; `Python` `Telegram Bot API` `AWS Boto3` `Hetzner`
-- Built an operational **Python Telegram Bot** providing secure, remote multi-cloud infrastructure orchestration for AWS and Hetzner.
-- Integrated cloud provider APIs for instant server diagnostics, automated instance lifecycle actions, and real-time operational alerts.
+```
+[Developer Push] ➡️ [GitHub Actions CI] ➡️ [Jenkaz Custom Action] ➡️ [Jenkins CD Job]
+                                                 ⬇️
+                              [Poll Job Status & Enforce Gate]
+                                    ✅ Pass / ❌ Fail
+```
+</details>
 
-### 5. **Flareaz** *(Azzrk)* &nbsp; `Go (Golang)` `Cloudflare SDK` `SQLite` `REST API`
-- Developed a high-performance **Go automation service** for multi-tenant Cloudflare DNS zone management and environment-aware subdomain provisioning.
-- Built persistent SQLite audit tracking for tenant resource metadata and created a RESTful API layer abstracting Cloudflare SDK complexities.
+<details>
+<summary><h3>2. 🧪 <strong>Hurlaz</strong> — Declarative API & Security Testing in CI/CD</h3></summary>
 
-### 6. **Dropit** &nbsp; `Docker` `AWS` `GitHub Actions` `IaC`
-- Architected automated CI/CD pipelines deploying containerized microservices to AWS.
-- Standardized container builds with multi-stage Dockerfiles and applied Infrastructure as Code practices for high scalability and zero-downtime upgrades.
+> **Tech Stack:** `TypeScript` &bull; `GitHub Actions` &bull; `Hurl` &bull; `REST APIs` &bull; `HTTP Automation`
 
-### 7. **Taco Application** *(Azzrk)* &nbsp; `Docker` `Justfile` `GitHub Actions` `Jenkins`
-- Crafted a unified command-line automation workflow using **Justfile** for streamlined local development and production releases.
-- Built reproducible Docker container environments and coordinated dual testing in GitHub Actions with automated deployment via Jenkins.
+- Authored a custom **TypeScript GitHub Action** integrating Hurl-based declarative HTTP testing directly into CI/CD pipelines.
+- Implemented dynamic test execution to validate complex API workflows, payloads, and application logic prior to deployment.
+- Automated security header checks, TLS validations, and HTTP response assertions throughout the release cycle.
+</details>
 
-### 8. **Sallamaat Application** *(Azzrk)* &nbsp; `RabbitMQ` `CI/CD` `Bash` `Linux`
-- Designed resilient deployment pipelines and asynchronous **RabbitMQ** messaging architecture for high-volume enterprise campaign processing.
-- Implemented stateful worker supervision capable of reliably processing continuous background campaign runs exceeding 24 hours.
+<details>
+<summary><h3>3. 🛡️ <strong>Codeaz</strong> — Policy-as-Code & Repository RBAC</h3></summary>
 
-### 9. **SPIDERS for Security** *(Graduation Project — Grade: A+)*
-- Comprehensive cybersecurity platform featuring an interactive **Academy**, hands-on vulnerability testing **Labs**, and a competitive **CTF Platform**.
-- Graduated with **B.Sc. in Information Technology** from **Tanta University** (GPA: 3.6 / B+).
+> **Tech Stack:** `GitHub Actions` &bull; `RBAC` &bull; `Security` &bull; `Policy-as-Code` &bull; `YAML`
+
+- Engineered a custom GitHub Action implementing strict **Role-Based Access Control (RBAC)** across repository files.
+- Formulated code-owner logic to enforce granular permissions, automated review assignments, and sign-offs for critical code paths.
+- Prevented unauthorized branch modifications and reinforced defense-in-depth engineering practices.
+</details>
+
+<details>
+<summary><h3>4. 🤖 <strong>Cloudaz</strong> — Multi-Cloud Remote Management Telegram Bot</h3></summary>
+
+> **Tech Stack:** `Python` &bull; `Telegram Bot API` &bull; `AWS Boto3` &bull; `Hetzner API` &bull; `Systemd`
+
+- Built a secure **Python Telegram Bot** providing remote orchestration and monitoring for AWS and Hetzner cloud servers.
+- Implemented authenticated remote server management commands, operational health queries, and instant reboot/provision actions.
+- Integrated cloud provider APIs to stream real-time resource alerts, CPU spikes, and uptime notifications to mobile devices.
+</details>
+
+<details>
+<summary><h3>5. 🌐 <strong>Flareaz</strong> — Multi-Tenant Cloudflare Infrastructure Provisioner</h3></summary>
+
+> **Tech Stack:** `Go (Golang)` &bull; `Cloudflare SDK` &bull; `SQLite` &bull; `REST APIs`
+
+- Built a high-performance **Go automation daemon** for multi-tenant Cloudflare DNS zone management and environment-aware subdomains.
+- Automated the lifecycle of staging and production subdomains with persistent SQLite audit trails.
+- Designed a clean RESTful API layer abstracting Cloudflare SDK complexities for platform automation.
+</details>
+
+<details>
+<summary><h3>6. 📦 <strong>Dropit</strong> — Containerized Cloud Deployment Engine</h3></summary>
+
+> **Tech Stack:** `Docker` &bull; `AWS` &bull; `GitHub Actions` &bull; `IaC` &bull; `Nginx`
+
+- Designed and implemented end-to-end continuous delivery pipelines for microservice frontend and backend architectures.
+- Automated Docker containerization, multi-stage image builds, vulnerability scans, and deployment to AWS environments.
+- Applied declarative Infrastructure as Code practices to maximize availability and enable zero-downtime rolling updates.
+</details>
+
+<details>
+<summary><h3>7. 🌮 <strong>Taco Application</strong> — Microservices Automation Workflow</h3></summary>
+
+> **Tech Stack:** `Docker` &bull; `Justfile` &bull; `GitHub Actions` &bull; `Jenkins`
+
+- Standardized developer commands and deployment steps using **Justfile** automation for reproducible developer onboarding.
+- Built production-ready Docker containers and unified automated testing in GitHub Actions with deployment automation in Jenkins.
+</details>
+
+<details>
+<summary><h3>8. 📨 <strong>Sallamaat Application</strong> — Enterprise Queue & Message Worker</h3></summary>
+
+> **Tech Stack:** `RabbitMQ` &bull; `Bash` &bull; `Linux` &bull; `CI/CD` &bull; `Microservices`
+
+- Designed robust CI/CD pipelines to streamline deployment velocity for enterprise marketing services.
+- Engineered **RabbitMQ** messaging middleware for reliable, asynchronous high-volume message ingestion and processing.
+- Implemented fault-tolerant worker supervision capable of executing long-running campaigns continuously exceeding 24 hours without message loss.
+</details>
+
+<details>
+<summary><h3>9. 🎓 <strong>SPIDERS for Security</strong> — Graduation Project (Grade: A+)</h3></summary>
+
+> **B.Sc. in Information Technology, Tanta University (GPA: 3.6 / B+)**
+
+- Comprehensive cybersecurity education and simulation platform featuring:
+  - 🏫 **Academy:** In-depth interactive courses in modern offensive and defensive cybersecurity.
+  - 🔬 **Virtual Labs:** Isolated, sandboxed container environments for vulnerability exploitation and patching.
+  - 🚩 **CTF Platform:** Real-time competitive Capture-The-Flag challenges and scoreboard analytics.
+</details>
 
 ---
 
-## 🛠️ Technical Skills & Toolbelt
+## 🛠️ Technical Arsenal & Ecosystem
+
+<div align="center">
+
+<!-- Animated Skill Icons Grid -->
+<a href="https://portfolio-v3-black-alpha.vercel.app/">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,githubactions,jenkins,gitlab,linux,bash,py,go,ts,postgres,nginx&theme=dark" alt="Skill Icons" />
+</a>
+
+<br/><br/>
 
 <table>
   <tr>
     <td width="22%"><strong>☁️ Cloud & Edge</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
-      <img src="https://img.shields.io/badge/Hetzner_Cloud-D50C2D?style=flat-square&logo=hetzner&logoColor=white" alt="Hetzner" />
-      <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="OCI" />
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+      <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
+      <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
     </td>
   </tr>
   <tr>
     <td><strong>📜 IaC & Config</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-      <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
-      <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
-      <img src="https://img.shields.io/badge/Justfile-000000?style=flat-square&logo=just&logoColor=white" alt="Just" />
+      <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+      <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+      <img src="https://img.shields.io/badge/Justfile-000000?style=for-the-badge&logo=just&logoColor=white" alt="Justfile" />
     </td>
   </tr>
   <tr>
-    <td><strong>🐳 Containers & K8s</strong></td>
+    <td><strong>🐳 Containers & Orchestration</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-      <img src="https://img.shields.io/badge/Red_Hat_OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" alt="OpenShift" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/Red_Hat_OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="OpenShift" />
     </td>
   </tr>
   <tr>
-    <td><strong>🔄 CI/CD & Pipelines</strong></td>
+    <td><strong>🔄 CI/CD & Delivery</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
-      <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+      <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     </td>
   </tr>
   <tr>
     <td><strong>📊 Observability</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-      <img src="https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white" alt="CloudWatch" />
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+      <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" alt="CloudWatch" />
     </td>
   </tr>
   <tr>
-    <td><strong>🛡️ Security & Quality</strong></td>
+    <td><strong>🛡️ Security & Testing</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
-      <img src="https://img.shields.io/badge/Wazuh-000000?style=flat-square&logo=wazuh&logoColor=white" alt="Wazuh" />
-      <img src="https://img.shields.io/badge/Hurl-E62D42?style=flat-square&logo=hurl&logoColor=white" alt="Hurl" />
-      <img src="https://img.shields.io/badge/RBAC_&_IAM-38A169?style=flat-square&logo=auth0&logoColor=white" alt="RBAC" />
+      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+      <img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
+      <img src="https://img.shields.io/badge/Hurl-E62D42?style=for-the-badge&logo=hurl&logoColor=white" alt="Hurl" />
+      <img src="https://img.shields.io/badge/RBAC_Policy-38A169?style=for-the-badge&logo=auth0&logoColor=white" alt="RBAC" />
     </td>
   </tr>
   <tr>
-    <td><strong>💻 Languages & Scripts</strong></td>
+    <td><strong>💻 Languages & Tooling</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
     </td>
   </tr>
   <tr>
-    <td><strong>🐧 Systems & Web</strong></td>
+    <td><strong>🐧 Systems & Servers</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-      <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
-      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+      <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
     </td>
   </tr>
 </table>
 
+</div>
+
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
@@ -205,19 +353,32 @@ Cloud & DevOps Engineer with proven production experience architecting **high-av
 
 ## 📬 Let's Connect
 
-Feel free to reach out for cloud infrastructure collaborations, DevOps consultations, or speaking & training engagements!
+Feel free to connect for cloud infrastructure collaborations, DevOps consultations, or speaking & training engagements!
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-00F2FE?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-v3-black-alpha.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaaz-elmahi/)
-[![Email](https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moazelmahi39@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moaaz17877640)
+<a href="https://portfolio-v3-black-alpha.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Visit_Live_Portfolio-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/moaaz-elmahi/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:moazelmahi39@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/moaaz17877640">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+✉️ **Email:** [moazelmahi39@gmail.com](mailto:moazelmahi39@gmail.com) &nbsp;|&nbsp; 
+📱 **Phone:** `+20 101 787 7640` &nbsp;|&nbsp; 
+📍 **Location:** Cairo, Egypt 🇪🇬
 
 <br/>
 
-**Email:** [moazelmahi39@gmail.com](mailto:moazelmahi39@gmail.com) &nbsp;|&nbsp; 
-**Phone:** `+20 101 787 7640` &nbsp;|&nbsp; 
-**Location:** Cairo, Egypt 🇪🇬
+<!-- Animated Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00f2fe,50:4f46e5,100:7928ca&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
