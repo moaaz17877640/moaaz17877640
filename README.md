@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00f2fe,50:4f46e5,100:7928ca&height=220&section=header&text=Moaaz%20Saeed%20Elmahi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20Solutions%20Architect&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Moaaz Saeed Elmahi - Header" />
+<a href="https://portfolio-v3-black-alpha.vercel.app/">
+  <img src="https://raw.githubusercontent.com/moaaz17877640/moaaz17877640/main/assets/header.svg" width="100%" alt="Moaaz Saeed Elmahi - Cloud &amp; DevOps Engineer" />
+</a>
 
 <!-- Dynamic Animated Typing SVG -->
 <a href="https://portfolio-v3-black-alpha.vercel.app/">
@@ -379,6 +381,6 @@ Feel free to connect for cloud infrastructure collaborations, DevOps consultatio
 <br/>
 
 <!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00f2fe,50:4f46e5,100:7928ca&height=120&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://raw.githubusercontent.com/moaaz17877640/moaaz17877640/main/assets/footer.svg" width="100%" alt="Footer Wave" />
 
 </div>
