@@ -2,7 +2,7 @@
 
 <!-- Animated Header Wave -->
 <a href="https://portfolio-v3-black-alpha.vercel.app/">
-  <img src="./assets/header.svg" width="100%" alt="Moaaz Saeed Elmahi - Cloud &amp; DevOps Engineer" />
+  <img src="./assets/banner.svg" width="100%" alt="Moaaz Saeed Elmahi - Cloud &amp; DevOps Engineer" />
 </a>
 
 <!-- Dynamic Animated Typing SVG -->
@@ -381,6 +381,6 @@ Feel free to connect for cloud infrastructure collaborations, DevOps consultatio
 <br/>
 
 <!-- Animated Wave Footer -->
-<img src="./assets/footer.svg" width="100%" alt="Footer Wave" />
+<img src="./assets/banner-footer.svg" width="100%" alt="Footer Wave" />
 
 </div>
