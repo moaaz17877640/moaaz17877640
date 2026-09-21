@@ -2,7 +2,7 @@
 
 <!-- Animated Header Wave -->
 <a href="https://portfolio-v3-black-alpha.vercel.app/">
-  <img src="./assets/banner.svg" width="100%" alt="Moaaz Saeed Elmahi - Cloud &amp; DevOps Engineer" />
+  <img src="./assets/hero.svg" width="100%" alt="Moaaz Saeed Elmahi - Cloud &amp; DevOps Engineer" />
 </a>
 
 <!-- Dynamic Animated Typing SVG -->
