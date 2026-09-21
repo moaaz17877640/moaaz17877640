@@ -191,8 +191,8 @@ Cloud & DevOps Engineer with proven production experience architecting **high-av
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moaaz17877640&show_icons=true&theme=radical&bg_color=060813&title_color=00f2fe&text_color=94a3b8&icon_color=00f2fe&border_color=1e293b&hide_border=false" alt="Moaaz's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaaz17877640&layout=compact&theme=radical&bg_color=060813&title_color=00f2fe&text_color=94a3b8&border_color=1e293b&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=moaaz17877640&show_icons=true&theme=radical&bg_color=060813&title_color=00f2fe&text_color=94a3b8&icon_color=00f2fe&border_color=1e293b&hide_border=false" alt="Moaaz's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=moaaz17877640&layout=compact&theme=radical&bg_color=060813&title_color=00f2fe&text_color=94a3b8&border_color=1e293b&hide_border=false" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
