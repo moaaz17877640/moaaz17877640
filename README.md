@@ -7,7 +7,7 @@
 
 <!-- Dynamic Animated Typing SVG -->
 <a href="https://portfolio-v3-black-alpha.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00F2FE&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+Engineer;AWS+Certified+Solutions+Architect+-+Associate;Terraform+%26+Ansible+Infrastructure+Automation;Zero-Downtime+CI%2FCD+Pipelines+(GitHub+Actions+%2B+Jenkins);DevOps+Engineer+%40+Madar Solutions;Cloud+Instructor+%40+NTI+(100%2B+Mentees);Visit+My+Live+Portfolio+%C2%BB" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00F2FE&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+Engineer;AWS+Certified+Solutions+Architect+-+Associate;Terraform+%26+Ansible+Infrastructure+Automation;Zero-Downtime+CI%2FCD+Pipelines+(GitHub+Actions+%2B+Jenkins);DevOps+Engineer+%40+Azzrk;Cloud+Instructor+%40+NTI+(100%2B+Mentees);Visit+My+Live+Portfolio+%C2%BB" alt="Typing Animation" />
 </a>
 
 <br/>
@@ -51,7 +51,7 @@ engineer:
   degrees: "B.Sc. in Information Technology, Tanta University (GPA: 3.6 / B+)"
   graduation_project: "SPIDERS for Security (Grade: A+)"
 current_focus:
-  primary_role: "DevOps Engineer @ Madar Solutions (Nov. 2025 - Present)"
+  primary_role: "DevOps Engineer @ Azzrk (Nov. 2025 - Present)"
   teaching_role: "Cloud Instructor (Part-time) @ NTI (National Telecommunication Institute)"
   mission: "Transforming complex infrastructure into predictable, declarative, automated code."
   live_portfolio: "https://portfolio-v3-black-alpha.vercel.app/"
@@ -123,7 +123,7 @@ stack_highlights:
 
 ## 💼 Professional Experience
 
-### 🚀 **DevOps Engineer** — [Madar Solutions](https://github.com/moaaz17877640)
+### 🚀 **DevOps Engineer** — [Azzrk](https://github.com/moaaz17877640)
 *Mansoura, Dakahlia, Egypt &nbsp;|&nbsp; Nov. 2025 – Present*
 
 - **End-to-End CI/CD Automation:** Engineered and maintained automated build, test, and zero-downtime deployment pipelines using **GitHub Actions**, cutting deployment cycles and human error.
